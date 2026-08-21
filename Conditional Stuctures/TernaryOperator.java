@@ -1,4 +1,4 @@
-public class OperadorTernario {
+public class TernaryOperator {
     public static void main(String[] args) {
         double salario = 600;
         String mensagemDoar = "Sim,doar";

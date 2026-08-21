@@ -1,4 +1,4 @@
-public class JavaEstruturasCondicionais {
+public class ConditionalsStatements {
     public static void main(String[] args) {
         int idadeJogador = 19;
 

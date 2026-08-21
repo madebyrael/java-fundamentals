@@ -13,5 +13,6 @@ int number = scanner.nextInt();
     } else if(number % 2 == 0 && number > 20){
         System.out.println("Not Weird");
     }
+    scanner.close();
 }
 }
